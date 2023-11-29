@@ -1,11 +1,6 @@
-# Welcome to your Jupyter Book
+Report PSD About Wine Dataset
 
-This is a small sample book to give you a feel for how book content is
-structured.
-It shows off a few of the major file types, as well as some sample content.
-It does not go in-depth into any particular topic - check out [the Jupyter Book documentation](https://jupyterbook.org) for more information.
-
-Check out the content pages bundled with this sample book to see more.
+Tujuan analisis data dari deskripsi tersebut adalah untuk memahami dan mengenali perbedaan karakteristik kimia dari tiga jenis anggur yang tumbuh di wilayah Italia. Meskipun data awalnya mencakup sekitar 30 variabel, versi yang telah direduksi dengan 13 fitur tetap memberikan informasi kunci, termasuk kadar alkohol, asam malat, dan komponen-komponen lainnya. Meskipun kita tidak mengetahui variabel spesifik yang tercakup, fokus analisis difokuskan pada pemahaman struktur kelas untuk mengidentifikasi pola klasifikasi yang mungkin muncul di antara ketiga varietas anggur tersebut. Meskipun dianggap sebagai ujian pertama untuk pengklasifikasi baru, tingkat kesulitan yang rendah memberikan kesempatan bagi model untuk memberikan hasil yang baik, membentuk dasar untuk penjelajahan lebih lanjut terhadap perbedaan kimia yang membedakan setiap kultivar anggur.
 
 ```{tableofcontents}
 ```
